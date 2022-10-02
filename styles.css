@@ -3,6 +3,11 @@ body {
     box-sizing: border-box;
 }
 
+img {
+    display: block;
+    margin: auto;
+    width: 10%;
+}
 .content {
     width: 60%;
     position: relative;
